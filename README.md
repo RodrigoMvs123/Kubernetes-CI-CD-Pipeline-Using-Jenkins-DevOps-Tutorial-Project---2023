@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=q4g7KJdFSn0
 
 https://raw.githubusercontent.com/RodrigoMvs123/Kubernetes-CI-CD-Pipeline-Using-Jenkins-DevOps-Tutorial-Project---2023/main/README.md
 
+https://github.com/RodrigoMvs123/Kubernetes-CI-CD-Pipeline-Using-Jenkins-DevOps-Tutorial-Project---2023/blame/main/README.md
 
 Application Repository 
 https://github.com/dmancloud/complete-prodcution-e2e-pipeline
